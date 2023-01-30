@@ -1,0 +1,60 @@
+body {
+  margin: 50px;
+  background-color: crimson;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  background-color: antiquewhite;
+  display: grid;
+  padding: 50px;
+  width: 450px;
+  width: fit-content;
+  -webkit-box-shadow: 0px 0px 24px 0px rgba(66, 68, 90, 1);
+  -moz-box-shadow: 0px 0px 24px 0px rgba(66, 68, 90, 1);
+  box-shadow: 0px 0px 24px 0px rgba(66, 68, 90, 1);
+}
+
+h1 {
+  font-size: 70px;
+  text-transform: capitalize;
+  font-weight: bold;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+#first {
+  font-size: 30px;
+  text-transform: capitalize;
+  font-weight: bold;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.second {
+  font-size: 25px;
+  text-transform: capitalize;
+  padding-left: 18px;
+}
+
+li {
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+ul {
+  width: fit-content;
+}
+
+button {
+  width: 158px;
+}
+
+hr {
+  width: 200px;
+}
+input {
+  width: 150px;
+}
